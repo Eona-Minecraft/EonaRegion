@@ -1,0 +1,11 @@
+name: EonaRegion
+version: 0.1
+author: Bloodrayne1995
+authors: [Nuss9940]
+website: http://eona-minecraft.de
+main: eonaminecraft.EonaRegion
+commands:
+  setRegion:
+    description: Erstellt eine Region
+    permission: eona.setRegion
+    usage: Syntax --> /setRegion <regionName> <playername> [prio=4]
